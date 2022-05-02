@@ -3,6 +3,8 @@ Parte B del laboratorio 2 de tópicos de telemática
 
 ## Diseño
 
+![image](https://user-images.githubusercontent.com/53055930/166331645-60afdd6e-c9f2-41b9-83a2-bfd32f14e635.png)
+
 ### Backend y Mongo 
 El backend se ejecuta en un contenedor de docker y la base de datos localmente en la misma maquina
 ### Nginx
